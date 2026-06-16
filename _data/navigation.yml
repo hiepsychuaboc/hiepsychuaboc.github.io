@@ -1,0 +1,21 @@
+main:
+  - title: "Trang chủ"
+    url: /
+
+  - title: "Kinh tế"
+    url: /categories/#kinh-te
+
+  - title: "Xã hội"
+    url: /categories/#xa-hoi
+
+  - title: "Quốc tế"
+    url: /categories/#quoc-te
+
+  - title: "Công nghệ"
+    url: /categories/#cong-nghe
+
+  - title: "Tất cả chủ đề"
+    url: /categories/
+
+  - title: "Giới thiệu"
+    url: /about/
